@@ -59,4 +59,3 @@ The project uses the following Rust crates:
 - [`clap`](https://crates.io/crates/clap) — Command‑line argument parsing
 - [`rodio`](https://crates.io/crates/rodio) — Audio playback
 - [`colored`](https://crates.io/crates/colored) — Colored terminal output
-- [`anyhow`](https://crates.io/crates/anyhow) — Error handling
