@@ -3,7 +3,6 @@
 > A simple terminal‑based music player written in Rust
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-informational)
 ![Rust Version](https://img.shields.io/badge/rust-%3E%3D1.56-blue)
 
